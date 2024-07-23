@@ -1,5 +1,5 @@
 hola = "Hello world"
-adios = "Bye..."
+adios = "Bye......"
 # agregar hola y adios
 print(hola)
 print(adios)
